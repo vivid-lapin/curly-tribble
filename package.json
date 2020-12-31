@@ -22,7 +22,7 @@
     "@emotion/react": "^11.1.4",
     "@emotion/styled": "^11.0.0",
     "framer-motion": "^3.1.1",
-    "parcel": "^2.0.0-nightly.492",
+    "parcel": "^2.0.0-nightly.496",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
